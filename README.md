@@ -7,7 +7,7 @@
 
 I'm a fullstack developer about 10 years focussed on ASP.NET C#.
 
-- 👀 I´m interested in a lot of tech areas but my focus is in Data \rea. I´m MBA on Business Inteligence and expert on Data Science. 
+- 👀 I´m interested in a lot of tech areas but my focus is in Data área. I´m MBA on Business Inteligence and expert on Data Science. 
 - 🌱 I´m learning Mobile (Flutter) and another technologies like Blazor and Machine Learning.
 - 💞️ I´m lookin to colaborate on my area of interest and social contacts.
 - 📫 Contact guilhermecravo@gmail.com
