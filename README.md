@@ -5,7 +5,7 @@
 
 ### About me
 
-I'm a fullstack developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
+I'm a fullstack developer about 10 years focussed on ASP.NET C#.
 
 - 👀 I´m interested in a lot of tech areas but my focus is in Data \rea. I´m MBA on Business Inteligence and expert on Data Science. 
 - 🌱 I´m learning Mobile (Flutter) and another technologies like Blazor and Machine Learning.
