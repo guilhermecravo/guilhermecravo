@@ -5,18 +5,18 @@
 
 ### About me
 
-I'm a fullstack developer about 10 years focussed on ASP.NET C#.
+I'm a fullstack developer about 14 years focussed on ASP.NET C#.
 
-- 👀 I´m interested in a lot of tech areas but my focus is in Data área. I´m MBA on Business Inteligence and expert on Data Science. 
+- 👀 I’m curious about all things tech, but lately, I’ve been focusing on data and software architecture. I’ve got an MBA in Business Intelligence and Project Management and specialized in Data Science.
 - 🌱 I´m learning Mobile (Flutter) and another technologies like Blazor and Machine Learning.
-- 💞️ I´m lookin to colaborate on my area of interest and social contacts.
-- 📫 Contact guilhermecravo@gmail.com
+- 💞️ I’m looking to collaborate on interesting projects, meet new people, and grow in the Software Architecture space.
+- 📫 Feel free to reach out: guilhermecravo@gmail.com
 
 ### Sobre mim
 
-Sou desenvolvedor FullStack há 10 anos com maior foco em ASP.NET e C#.
+Sou desenvolvedor FullStack há 14 anos com maior foco em ASP.NET e C#.
 
-- 👀 Tenho interesses em diversas áreas da tecnologia mas tenho focado na área de dados. Tenho MBA em Business Inteligence e Especialização em Ciência de dados. 
+- 👀 Tenho interesses em diversas áreas da tecnologia mas tenho focado na área de dados e arquitetura de software. Tenho MBA em Business Inteligence, Gestão de projetos e Especialização em Ciência de dados. 
 - 🌱 Estou aprendendo Mobile (Flutter) e outras tecnologias como Blazor e Machine Learning.
-- 💞️ Estou buscando contribuir com projetos em minha área de interesse e fazer contatos.
+- 💞️ Estou buscando contribuir com projetos em minha área de interesse e fazer contatos e evoluir na área de Arquitetura de Software.
 - 📫 Contato guilhermecravo@gmail.com
